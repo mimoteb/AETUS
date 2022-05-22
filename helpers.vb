@@ -9,9 +9,9 @@ Imports Newtonsoft.Json
 Module helpers
     'battles played
 
-    'https://api.worldoftanks.eu/wot/globalmap/seasonaccountinfo/?application_id=0736c8bb8838d6b17b7e7f29b8a319ee&season_id=season_16&vehicle_level=10&account_id=542250529&fields=seasons.account_id%2Cseasons.battles
+    'https://api.worldoftanks.eu/wot/globalmap/seasonaccountinfo/?application_id=&season_id=season_16&vehicle_level=10&account_id=&fields=seasons.account_id%2Cseasons.battles
     'clan memebers
-    'https://api.worldoftanks.eu/wot/clans/info/?application_id=0736c8bb8838d6b17b7e7f29b8a319ee&clan_id=500149882&fields=members.account_id%2Cmembers.account_name
+    'https://api.worldoftanks.eu/wot/clans/info/?application_id=&clan_id=500149882&fields=members.account_id%2Cmembers.account_name
     Public conn As New SQLiteConnection("Data Source=db.db")
     Public cmd As New SQLiteCommand("", conn)
     Public Reader As SQLiteDataReader
