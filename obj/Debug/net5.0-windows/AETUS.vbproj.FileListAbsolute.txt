@@ -1,0 +1,67 @@
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.exe
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.deps.json
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.runtimeconfig.json
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.runtimeconfig.dev.json
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\ref\AETUS.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\AETUS.pdb
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\AETUS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.vbprojAssemblyReference.cache
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.MainForm.resources
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.GenerateResource.cache
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.AssemblyInfoInputs.cache
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.AssemblyInfo.vb
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.CopyComplete
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.dll
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\ref\AETUS.dll
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.pdb
+D:\Projects\Programming\World of tanks\AETUS\obj\Debug\net5.0-windows\AETUS.genruntimeconfig.cache
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.MainForm.resources
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.GenerateResource.cache
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.AssemblyInfoInputs.cache
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.AssemblyInfo.vb
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.CoreCompileInputs.cache
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.exe
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.deps.json
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.runtimeconfig.json
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.runtimeconfig.dev.json
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\ref\AETUS.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\AETUS.pdb
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sisso\Desktop\AETUS\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.vbproj.CopyComplete
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.dll
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\ref\AETUS.dll
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.pdb
+C:\Users\sisso\Desktop\AETUS\obj\Debug\net5.0-windows\AETUS.genruntimeconfig.cache
